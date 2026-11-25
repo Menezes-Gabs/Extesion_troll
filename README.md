@@ -108,7 +108,7 @@ A instalação e a ativação dos modos devem ser voluntárias.
 
 ## Aviso
 
-Projeto independente, desenvolvido para entretenimento e aprendizado de desenvolvimento web. Não possui vínculo oficial com Max Verstappen, Red Bull Racing ou a Fórmula 1. Utilize imagens para as quais tenha autorização de uso, especialmente ao redistribuir o projeto.
+Projeto independente, desenvolvido para entretenimento e aprendizado de desenvolvimento web.
 
 ---
 
