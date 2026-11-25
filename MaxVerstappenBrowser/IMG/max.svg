@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+    <rect width="400" height="300" fill="#fff"/>
+    <path d="M0 0H400V80H0Z" fill="#183b78"/>
+    <path d="M0 220H400V300H0Z" fill="#171717"/>
+    <text x="200" y="155" font-family="Arial" font-size="30" font-weight="bold" text-anchor="middle">MAX VERSTAPPEN</text>
+    <text x="200" y="190" font-family="Arial" font-size="16" text-anchor="middle">COLOQUE SUA FOTO NA PASTA IMG</text>
+</svg>

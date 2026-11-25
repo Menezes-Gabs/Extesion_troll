@@ -1,0 +1,8 @@
+TAPIA BROWSER EXPERIENCE
+1. Extraia o ZIP. Abra chrome://extensions no Chrome de computador.
+2. Ative o modo do desenvolvedor e clique em Carregar sem compactação.
+3. Selecione a pasta TapiaBrowser que contém manifest.json.
+4. Coloque suas fotos na pasta IMG com os nomes tapia1.jpg até tapia4.jpg. Uma foto já basta. Sem fotos, será exibido um cartão provisório.
+5. Recarregue a extensão e as páginas abertas. Abra o painel pelo ícone de extensões.
+Os modos começam desativados. Fiscal aparece uma vez por carregamento de página em redes sociais. Invasão atua em elementos img, não em fundos CSS ou vídeos. Comic Sans depende da fonte instalada. Páginas internas do Chrome não são modificadas. Para restaurar completamente sites dinâmicos, desative os modos e recarregue a página.
+Não coleta dados nem usa servidor. Compartilhe para instalação voluntária.

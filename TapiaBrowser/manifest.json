@@ -1,0 +1,35 @@
+{
+    "manifest_version": 3,
+    "name": "Tapia Browser Experience",
+    "version": "1.0.0",
+    "description": "100% Tapia. 0% utilidade pública.",
+    "permissions": [
+        "storage"
+    ],
+    "action": {
+        "default_popup": "HTML/popup.html"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "http://*/*",
+                "https://*/*"
+            ],
+            "js": [
+                "JS/content.js"
+            ],
+            "run_at": "document_idle"
+        }
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": [
+                "IMG/*"
+            ],
+            "matches": [
+                "http://*/*",
+                "https://*/*"
+            ]
+        }
+    ]
+}
